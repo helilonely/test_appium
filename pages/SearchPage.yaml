@@ -1,0 +1,13 @@
+search:
+  - by: id
+    locator: com.xueqiu.android:id/search_input_text
+    action: click
+
+choose:
+  - by: xpath
+    locator: //android.widget.TextView[@resource-id='com.xueqiu.android:id/code' and @text='BABA' ]
+    action: click
+
+  - by: xpath
+    locator: //android.widget.TextView[@resource-id='com.xueqiu.android:id/follow_btn' and @text='加自选' ]
+    action: click
