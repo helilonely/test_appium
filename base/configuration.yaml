@@ -1,0 +1,48 @@
+#当value为数字或者boolean值时，需要加引号。使其为字符串
+#platformVersion: '6.0.1'
+platformName: 'android'
+#appPackage: 'com.xueqiu.android'
+#appActivity: '.view.WelcomeActivityAlias'
+#deviceName: '192.168.62.102:5555'
+#udid: '192.168.62.102:5555'
+# 指定启动的模拟器 sdk自带的avd模拟器
+# avd: 'anroid_6_1440_2560_560dpi'
+
+#-----------------重置用户数据-------------------------
+# 不会重置用户数据   true 不清 false清空
+noReset: 'false'
+# 为真则清空所有用户数据
+#fullReset: 'false'
+
+#----------------- 初始化设备，停止app------------------
+# 复用的概念，不会重启app
+#dontStopAppOnReset: 'true'
+# 跳过设备的初始化操作
+skipDeviceInitialization: 'true'
+
+# -------------------输入法----------------------------
+#设置中文输入
+unicodeKeyboard: "true"
+resetKeyboard: "true"
+
+# ------------------- 授权类---------------------------
+
+#自动授权、相机。位置等权限
+autoGrantPermissions: 'true'
+
+
+# ------------------- h5浏览器操作的一些设置--------------
+#指定浏览器Browser为默认浏览器， 可以是 browser : Chrome
+#browserName: 'Browser'
+
+#指定驱动版本映射文件
+#chromedriverChromeMappingFile: '\base\mapping.json'
+
+#指定固定版本的浏览器的驱动
+#chromedriverExecutable: "C:\Users\heli\PycharmProjects\test_appium\chromedriver2.23.exe"
+
+#指定驱动目录  ，appium会自动寻找合适驱动
+#chromedriverExecutableDir: '\base\ChromeDriver'
+
+# ------------------- app 路径 --------------
+#app: '\apk\雪球app.apk'
