@@ -6,22 +6,15 @@
 # @Software: PyCharm
 
 from page import *
-from page.black import Black
-from page.searchPage import searchPage
+from page.Search import Search
 
 
 class Main(BaseAndroidOperation):
 
     def __init__(self, driver):
         self._driver = driver
+        self._driver.set_network_connection(6)
 
-
-    def goto_search(self) -> searchPage:
-
-        #print(self._driver.window_handles, "=================================")
+    def goto_search(self) -> Search:
         self.steps("page/main.yaml")
-        return searchPage(self._driver)
-
-    def goto_write(self) -> Black:
-        self.steps(r"page\black.yaml")
-        return Black(self._driver)
+        return Search(self._driver)

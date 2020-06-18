@@ -1,0 +1,30 @@
+Tue, 16 Jun 2020 19:05:11 wrapper.py[line:39] INFO run base_find_element
+ args:(<page.main.Main object at 0x00000276C592F0C8>, ('id', 'com.xueqiu.android:id/home_search'))
+ kwargs:{}
+Tue, 16 Jun 2020 19:05:11 wrapper.py[line:39] INFO run base_find_element
+ args:(<page.Search.Search object at 0x00000276C5D10988>, ('id', 'com.xueqiu.android:id/search_input_text'))
+ kwargs:{}
+Tue, 16 Jun 2020 19:05:13 wrapper.py[line:39] INFO run base_find_element
+ args:(<page.Search.Search object at 0x00000276C5D10988>, ('id', 'com.xueqiu.android:id/search_input_text'))
+ kwargs:{}
+Tue, 16 Jun 2020 19:05:14 wrapper.py[line:39] INFO run base_find_element
+ args:(<page.Search.Search object at 0x00000276C5D10988>, ('xpath', '//*[@resource-id="com.xueqiu.android:id/listview"]/android.widget.RelativeLayout[1]'))
+ kwargs:{}
+Tue, 16 Jun 2020 19:05:15 wrapper.py[line:39] INFO run base_find_element
+ args:(<page.Search.Search object at 0x00000276C5D10988>, ('xpath', '//*[@resource-id="com.xueqiu.android:id/ll_stock_result_view"]//*[@text="加自选"]'))
+ kwargs:{}
+Tue, 16 Jun 2020 19:05:21 wrapper.py[line:39] INFO run base_find_element
+ args:(<page.main.Main object at 0x00000276C5D21648>, ('id', 'com.xueqiu.android:id/home_search'))
+ kwargs:{}
+Tue, 16 Jun 2020 19:05:22 wrapper.py[line:39] INFO run base_find_element
+ args:(<page.Search.Search object at 0x00000276C5D21508>, ('id', 'com.xueqiu.android:id/search_input_text'))
+ kwargs:{}
+Tue, 16 Jun 2020 19:05:23 wrapper.py[line:39] INFO run base_find_element
+ args:(<page.Search.Search object at 0x00000276C5D21508>, ('id', 'com.xueqiu.android:id/search_input_text'))
+ kwargs:{}
+Tue, 16 Jun 2020 19:05:24 wrapper.py[line:39] INFO run base_find_element
+ args:(<page.Search.Search object at 0x00000276C5D21508>, ('xpath', '//*[@resource-id="com.xueqiu.android:id/listview"]/android.widget.RelativeLayout[1]'))
+ kwargs:{}
+Tue, 16 Jun 2020 19:05:25 wrapper.py[line:39] INFO run base_find_element
+ args:(<page.Search.Search object at 0x00000276C5D21508>, ('xpath', '//*[@resource-id="com.xueqiu.android:id/ll_stock_result_view"]//*[@text="加自选"]'))
+ kwargs:{}

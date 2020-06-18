@@ -1,0 +1,39 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "雪球搜索功能",
+    "children" : [ {
+      "name" : "搜索股票",
+      "children" : [ {
+        "name" : "test_search[alibaba]",
+        "uid" : "a9c0aa9882c6d7c5",
+        "parentUid" : "e0ae172f1bc8bccc87d29d6808906743",
+        "status" : "failed",
+        "time" : {
+          "start" : 1592330265246,
+          "stop" : 1592330273400,
+          "duration" : 8154
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'alibaba'" ]
+      }, {
+        "name" : "test_search[xiaomi]",
+        "uid" : "a375238ca879d2e5",
+        "parentUid" : "e0ae172f1bc8bccc87d29d6808906743",
+        "status" : "failed",
+        "time" : {
+          "start" : 1592330277841,
+          "stop" : 1592330286090,
+          "duration" : 8249
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'xiaomi'" ]
+      } ],
+      "uid" : "e0ae172f1bc8bccc87d29d6808906743"
+    } ],
+    "uid" : "78c85ca10e2391dc053fc6af175c3e16"
+  } ]
+}

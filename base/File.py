@@ -17,5 +17,5 @@ class BaseYaml(object):
 
 
 if __name__ == '__main__':
-    print(BaseYaml().get_all_data("../page/searchPage.yaml"))
+    print(BaseYaml().get_all_data("../page/Search.yaml"))
     print ("click" in "click send")

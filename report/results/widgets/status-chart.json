@@ -1,0 +1,21 @@
+[ {
+  "uid" : "a9c0aa9882c6d7c5",
+  "name" : "test_search[alibaba]",
+  "time" : {
+    "start" : 1592330265246,
+    "stop" : 1592330273400,
+    "duration" : 8154
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "a375238ca879d2e5",
+  "name" : "test_search[xiaomi]",
+  "time" : {
+    "start" : 1592330277841,
+    "stop" : 1592330286090,
+    "duration" : 8249
+  },
+  "status" : "failed",
+  "severity" : "normal"
+} ]

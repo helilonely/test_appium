@@ -1,0 +1,18 @@
+[32mINFO    [0m root:wrapper.py:39 run base_find_element
+ args:(<page.main.Main object at 0x000001D06F6B27C8>, ('id', 'com.xueqiu.android:id/home_search'))
+ kwargs:{}
+[32mINFO    [0m root:wrapper.py:39 run base_find_element
+ args:(<page.Search.Search object at 0x000001D06E8B3D08>, ('id', 'com.xueqiu.android:id/search_input_text'))
+ kwargs:{}
+[32mINFO    [0m root:wrapper.py:39 run base_find_element
+ args:(<page.Search.Search object at 0x000001D06E8B3D08>, ('id', 'com.xueqiu.android:id/search_input_text'))
+ kwargs:{}
+[32mINFO    [0m root:wrapper.py:39 run base_find_element
+ args:(<page.Search.Search object at 0x000001D06E8B3D08>, ('xpath', '//*[@resource-id="com.xueqiu.android:id/listview"]/android.widget.RelativeLayout[1]'))
+ kwargs:{}
+[32mINFO    [0m root:wrapper.py:39 run base_find_element
+ args:(<page.Search.Search object at 0x000001D06E8B3D08>, ('xpath', '//*[@resource-id="com.xueqiu.android:id/ll_stock_result_view"]//*[@text="已添加"]'))
+ kwargs:{}
+[32mINFO    [0m root:wrapper.py:39 run base_find_element
+ args:(<page.Search.Search object at 0x000001D06E8B3D08>, ('xpath', '//*[@resource-id="com.xueqiu.android:id/ll_stock_result_view"]//*[@text="加自选"]'))
+ kwargs:{}

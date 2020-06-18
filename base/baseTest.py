@@ -4,7 +4,10 @@
 # @Email   : 1013828952@qq.com
 # @File    : baseTest.py
 # @Software: PyCharm
+import time
+
 from page.app import App
+
 
 
 class BaseTest:
@@ -12,4 +15,5 @@ class BaseTest:
         self.app = App()
 
     def teardown_class(self):
+        time.sleep(3)
         self.app._driver.quit()

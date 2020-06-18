@@ -5,7 +5,6 @@
 # @File    : app.py
 # @Software: PyCharm
 from page.main import Main
-from page.black import Black
 from appium import webdriver
 from base.configuration import GetConfiguration
 from base.basePage import BaseAndroidOperation
@@ -32,6 +31,4 @@ class App(BaseAndroidOperation):
     def main(self) -> Main:
         return Main(self._driver)
 
-    def black(self)->Black:
-        return Black(self._driver)
 

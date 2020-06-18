@@ -1,0 +1,35 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "scripts.test_search",
+    "children" : [ {
+      "name" : "test_search[alibaba]",
+      "uid" : "a9c0aa9882c6d7c5",
+      "parentUid" : "d364b3e207ba3cd3470212f14c36e7b7",
+      "status" : "failed",
+      "time" : {
+        "start" : 1592330265246,
+        "stop" : 1592330273400,
+        "duration" : 8154
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "'alibaba'" ]
+    }, {
+      "name" : "test_search[xiaomi]",
+      "uid" : "a375238ca879d2e5",
+      "parentUid" : "d364b3e207ba3cd3470212f14c36e7b7",
+      "status" : "failed",
+      "time" : {
+        "start" : 1592330277841,
+        "stop" : 1592330286090,
+        "duration" : 8249
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "'xiaomi'" ]
+    } ],
+    "uid" : "scripts.test_search"
+  } ]
+}

@@ -1,0 +1,31 @@
+search:
+  - by: id
+    locator: 'com.xueqiu.android:id/search_input_text'
+    action: click
+
+  - by: id
+    locator: 'com.xueqiu.android:id/search_input_text'
+    action: 'clear send'
+    value: '${key}'
+
+
+  - by: xpath
+    locator: '//*[@resource-id="com.xueqiu.android:id/listview"]/android.widget.RelativeLayout[1]'
+    action: 'click'
+
+
+
+add:
+  - by: xpath
+    locator: '//*[@resource-id="com.xueqiu.android:id/ll_stock_result_view"]//*[@text="加自选"]'
+    action: 'click'
+
+is_choozen:
+  - by: xpath
+    locator: '//*[@resource-id="com.xueqiu.android:id/ll_stock_result_view"]//*[ @text="已添加"]'
+    action: 'len>0'
+
+reset:
+  - by: xpath
+    locator: '//*[@resource-id="com.xueqiu.android:id/ll_stock_result_view"]//*[@text="已添加"]'
+    action: 'click'

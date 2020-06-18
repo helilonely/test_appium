@@ -1,0 +1,249 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "LAPTOP-GVIPSB4C",
+    "children" : [ {
+      "name" : "13916-MainThread",
+      "children" : [ {
+        "name" : "test_search[alibaba]",
+        "uid" : "2958de78b369dfb1",
+        "parentUid" : "226bfdd1c3bf620d6e8fe83497619372",
+        "status" : "failed",
+        "time" : {
+          "start" : 1592329474569,
+          "stop" : 1592329483149,
+          "duration" : 8580
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'alibaba'" ]
+      }, {
+        "name" : "test_search[xiaomi]",
+        "uid" : "3ca20333c7a0afd6",
+        "parentUid" : "226bfdd1c3bf620d6e8fe83497619372",
+        "status" : "failed",
+        "time" : {
+          "start" : 1592329488181,
+          "stop" : 1592329495866,
+          "duration" : 7685
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'xiaomi'" ]
+      } ],
+      "uid" : "226bfdd1c3bf620d6e8fe83497619372"
+    }, {
+      "name" : "14556-MainThread",
+      "children" : [ {
+        "name" : "test_search[alibaba]",
+        "uid" : "a9c0aa9882c6d7c5",
+        "parentUid" : "56c2a1a2a4cc59136d541f823dc1b8a3",
+        "status" : "failed",
+        "time" : {
+          "start" : 1592330265246,
+          "stop" : 1592330273400,
+          "duration" : 8154
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'alibaba'" ]
+      }, {
+        "name" : "test_search[xiaomi]",
+        "uid" : "a375238ca879d2e5",
+        "parentUid" : "56c2a1a2a4cc59136d541f823dc1b8a3",
+        "status" : "failed",
+        "time" : {
+          "start" : 1592330277841,
+          "stop" : 1592330286090,
+          "duration" : 8249
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'xiaomi'" ]
+      } ],
+      "uid" : "56c2a1a2a4cc59136d541f823dc1b8a3"
+    }, {
+      "name" : "20188-MainThread",
+      "children" : [ {
+        "name" : "test_search[alibaba]",
+        "uid" : "5cc15b6f2f42391e",
+        "parentUid" : "9abcb1662c2c4692d21f16343e91032f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592327662118,
+          "stop" : 1592327670090,
+          "duration" : 7972
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'alibaba'" ]
+      }, {
+        "name" : "test_search[xiaomi]",
+        "uid" : "30932aca90d49097",
+        "parentUid" : "9abcb1662c2c4692d21f16343e91032f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592327675409,
+          "stop" : 1592327682463,
+          "duration" : 7054
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'xiaomi'" ]
+      } ],
+      "uid" : "9abcb1662c2c4692d21f16343e91032f"
+    }, {
+      "name" : "19960-MainThread",
+      "children" : [ {
+        "name" : "test_search[alibaba]",
+        "uid" : "70b041e2a3565e55",
+        "parentUid" : "2ca30849da69634e8546d9d086cbe85a",
+        "status" : "failed",
+        "time" : {
+          "start" : 1592330028769,
+          "stop" : 1592330037039,
+          "duration" : 8270
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'alibaba'" ]
+      }, {
+        "name" : "test_search[xiaomi]",
+        "uid" : "b239475c9ca9a25e",
+        "parentUid" : "2ca30849da69634e8546d9d086cbe85a",
+        "status" : "failed",
+        "time" : {
+          "start" : 1592330041937,
+          "stop" : 1592330049491,
+          "duration" : 7554
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'xiaomi'" ]
+      } ],
+      "uid" : "2ca30849da69634e8546d9d086cbe85a"
+    }, {
+      "name" : "19736-MainThread",
+      "children" : [ {
+        "name" : "test_search[alibaba]",
+        "uid" : "ee312b114c6401e5",
+        "parentUid" : "93043aac6097c7a8baacce0057d9ef7e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592327028735,
+          "stop" : 1592327036042,
+          "duration" : 7307
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'alibaba'" ]
+      }, {
+        "name" : "test_search[xiaomi]",
+        "uid" : "31656a942a4b8fae",
+        "parentUid" : "93043aac6097c7a8baacce0057d9ef7e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592327041047,
+          "stop" : 1592327047865,
+          "duration" : 6818
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'xiaomi'" ]
+      } ],
+      "uid" : "93043aac6097c7a8baacce0057d9ef7e"
+    }, {
+      "name" : "16164-MainThread",
+      "children" : [ {
+        "name" : "test_search[alibaba]",
+        "uid" : "f6e6590f9487c21c",
+        "parentUid" : "fa6939498558c50707b21be933e92546",
+        "status" : "broken",
+        "time" : {
+          "start" : 1592328715183,
+          "stop" : 1592328723800,
+          "duration" : 8617
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'alibaba'" ]
+      }, {
+        "name" : "test_search[xiaomi]",
+        "uid" : "39791b25c4c35513",
+        "parentUid" : "fa6939498558c50707b21be933e92546",
+        "status" : "broken",
+        "time" : {
+          "start" : 1592328728730,
+          "stop" : 1592328736317,
+          "duration" : 7587
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'xiaomi'" ]
+      } ],
+      "uid" : "fa6939498558c50707b21be933e92546"
+    }, {
+      "name" : "20328-MainThread",
+      "children" : [ {
+        "name" : "test_search[alibaba]",
+        "uid" : "4af7aea8efc134b1",
+        "parentUid" : "4df7b22b2a3f443a2bf3f9c2bbdc8408",
+        "status" : "broken",
+        "time" : {
+          "start" : 1592328343934,
+          "stop" : 1592328352084,
+          "duration" : 8150
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'alibaba'" ]
+      }, {
+        "name" : "test_search[xiaomi]",
+        "uid" : "5c855a9d070ba07d",
+        "parentUid" : "4df7b22b2a3f443a2bf3f9c2bbdc8408",
+        "status" : "broken",
+        "time" : {
+          "start" : 1592328357243,
+          "stop" : 1592328365262,
+          "duration" : 8019
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'xiaomi'" ]
+      } ],
+      "uid" : "4df7b22b2a3f443a2bf3f9c2bbdc8408"
+    }, {
+      "name" : "19336-MainThread",
+      "children" : [ {
+        "name" : "test_search[xiaomi]",
+        "uid" : "bc83110715d24b77",
+        "parentUid" : "076516cd73a6415cd3e822359e448573",
+        "status" : "failed",
+        "time" : {
+          "start" : 1592329225528,
+          "stop" : 1592329233370,
+          "duration" : 7842
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'xiaomi'" ]
+      }, {
+        "name" : "test_search[alibaba]",
+        "uid" : "6e8a01daee78124e",
+        "parentUid" : "076516cd73a6415cd3e822359e448573",
+        "status" : "failed",
+        "time" : {
+          "start" : 1592329211900,
+          "stop" : 1592329220435,
+          "duration" : 8535
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'alibaba'" ]
+      } ],
+      "uid" : "076516cd73a6415cd3e822359e448573"
+    } ],
+    "uid" : "d1f7fed1f132c8fa758c08caa55f584b"
+  } ]
+}

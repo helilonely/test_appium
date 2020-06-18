@@ -1,0 +1,36 @@
+Thu, 18 Jun 2020 00:27:37 wrapper.py[line:39] INFO run base_find_element
+ args:(<page.main.Main object at 0x00000266923B5988>, ('id', 'com.xueqiu.android:id/home_search'))
+ kwargs:{}
+Thu, 18 Jun 2020 00:27:37 wrapper.py[line:39] INFO run base_find_element
+ args:(<page.Search.Search object at 0x0000026692402488>, ('id', 'com.xueqiu.android:id/search_input_text'))
+ kwargs:{}
+Thu, 18 Jun 2020 00:27:38 wrapper.py[line:39] INFO run base_find_element
+ args:(<page.Search.Search object at 0x0000026692402488>, ('id', 'com.xueqiu.android:id/search_input_text'))
+ kwargs:{}
+Thu, 18 Jun 2020 00:27:40 wrapper.py[line:39] INFO run base_find_element
+ args:(<page.Search.Search object at 0x0000026692402488>, ('xpath', '//*[@resource-id="com.xueqiu.android:id/listview"]/android.widget.RelativeLayout[1]'))
+ kwargs:{}
+Thu, 18 Jun 2020 00:27:42 wrapper.py[line:39] INFO run base_find_element
+ args:(<page.Search.Search object at 0x0000026692402488>, ('xpath', '//*[@resource-id="com.xueqiu.android:id/ll_stock_result_view"]//*[@text="已添加"]'))
+ kwargs:{}
+Thu, 18 Jun 2020 00:27:42 wrapper.py[line:39] INFO run base_find_element
+ args:(<page.Search.Search object at 0x0000026692402488>, ('xpath', '//*[@resource-id="com.xueqiu.android:id/ll_stock_result_view"]//*[@text="加自选"]'))
+ kwargs:{}
+Thu, 18 Jun 2020 00:27:51 wrapper.py[line:39] INFO run base_find_element
+ args:(<page.main.Main object at 0x00000266923B5988>, ('id', 'com.xueqiu.android:id/home_search'))
+ kwargs:{}
+Thu, 18 Jun 2020 00:27:51 wrapper.py[line:39] INFO run base_find_element
+ args:(<page.Search.Search object at 0x00000266928B4208>, ('id', 'com.xueqiu.android:id/search_input_text'))
+ kwargs:{}
+Thu, 18 Jun 2020 00:27:53 wrapper.py[line:39] INFO run base_find_element
+ args:(<page.Search.Search object at 0x00000266928B4208>, ('id', 'com.xueqiu.android:id/search_input_text'))
+ kwargs:{}
+Thu, 18 Jun 2020 00:27:54 wrapper.py[line:39] INFO run base_find_element
+ args:(<page.Search.Search object at 0x00000266928B4208>, ('xpath', '//*[@resource-id="com.xueqiu.android:id/listview"]/android.widget.RelativeLayout[1]'))
+ kwargs:{}
+Thu, 18 Jun 2020 00:27:57 wrapper.py[line:39] INFO run base_find_element
+ args:(<page.Search.Search object at 0x00000266928B4208>, ('xpath', '//*[@resource-id="com.xueqiu.android:id/ll_stock_result_view"]//*[@text="已添加"]'))
+ kwargs:{}
+Thu, 18 Jun 2020 00:27:57 wrapper.py[line:39] INFO run base_find_element
+ args:(<page.Search.Search object at 0x00000266928B4208>, ('xpath', '//*[@resource-id="com.xueqiu.android:id/ll_stock_result_view"]//*[@text="加自选"]'))
+ kwargs:{}

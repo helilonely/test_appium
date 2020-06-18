@@ -10,7 +10,7 @@ platformName: 'android'
 
 #-----------------重置用户数据-------------------------
 # 不会重置用户数据   true 不清 false清空
-noReset: 'false'
+noReset: 'true'
 # 为真则清空所有用户数据
 #fullReset: 'false'
 
