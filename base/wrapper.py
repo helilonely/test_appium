@@ -51,6 +51,7 @@ def handler_black(func):
             for black in instance._black_lsit:
                 elements = instance._driver.find_elements(*black)
                 if len(elements) > 0:
+                    #为了处理广告问题，所以点关闭广告的元素
                     elements[0].click()
                     return wrapper(*args, **kwargs)
             raise e
